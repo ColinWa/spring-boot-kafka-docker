@@ -20,6 +20,8 @@ target/
 *.ipr
 
 ### NetBeans ###
+nbactions.xml
+nb-configuration.xml
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -28,8 +30,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-nbactions.xml
-nb-configuration.xml
 
 ### VS Code ###
 .vscode/
